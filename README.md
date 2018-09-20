@@ -27,3 +27,13 @@ docker exec <container id> nginx -t
 
 docker exec <container id> nginx -s reload
 ```
+
+# Thanks to these repositories
+
+[sitkevij/ffmpeg](https://github.com/sitkevij/ffmpeg)
+
+[cybercode/alpine-nginx](https://github.com/cybercode/alpine-nginx)
+
+[alfg/docker-nginx-rtmp](https://github.com/alfg/docker-nginx-rtmp)
+
+[tiangolo/nginx-rtmp-docker](https://github.com/tiangolo/nginx-rtmp-docker/blob/master/Dockerfile)
